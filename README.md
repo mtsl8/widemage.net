@@ -10,6 +10,7 @@ todo (sooner):
     * ==pipelines
 
 todo (later):
+* improve automation/configuration using [hexo.io](https://hexo.io)
 * design/implement:
   * a user accounts system with:
     * members' common area
