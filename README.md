@@ -5,9 +5,9 @@ todo (sooner):
 * automate updates to server
 * add twitch and youtube links
 * get some kind of basic art / logo
-* add a preferred way to communicate with me
-* add a bit more something to look at / read
-  * decide what & how much of that to put there vs here
+* clearly describe method(s) for communication
+* add (several) more paths of somethings to engage with
+  * decide what & how much of that to put here vs there vs everywhere
     * ==pipelines
 
 todo (later):
