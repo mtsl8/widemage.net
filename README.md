@@ -1,5 +1,3 @@
-# widemage.net
-
-source files for website
+source files for [https://widemage.net]
 
 todo: automate updates
