@@ -1,6 +1,7 @@
 source files for https://widemage.net
 
 todo (sooner): 
+* get better font
 * automate updates to server
 * add twitch and youtube links
 * get some kind of basic art / logo
