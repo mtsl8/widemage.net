@@ -16,4 +16,4 @@ todo (later):
   * a user accounts system with:
     * members' common area
     * user private landing pages
-  * some useful apps that utilize that system
+  * some useful apps which utilize that system
